@@ -1,0 +1,22 @@
+div {
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+fieldset {
+    margin-bottom: 12px;
+}
+
+legend {
+    background-color: brown;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+ #imagen {
+    border-radius: 70px;
+    margin-bottom: 12px;
+}
